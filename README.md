@@ -1,1 +1,4 @@
-ÉLAN full-bleed editorial homepage concept. Upload index.html and elan-editorial-hero.jpg to the root of your GitHub repository, then deploy with Vercel (Framework: Other). Keep the image filename unchanged. This is an independent concept, not the client’s actual application. Other images use Unsplash and require internet access.\n
+ÉLAN editorial homepage — corrected hero framing.
+Upload index.html and elan-editorial-hero-clean.jpg to the repository root.
+Other images load from remote Unsplash URLs.
+Concept by Laurence Macaspac.
